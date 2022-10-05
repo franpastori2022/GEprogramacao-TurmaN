@@ -1,70 +1,33 @@
-
 body {
-	background-color: #D90B6E;
+	background-color: #83bf34;
 }
 
 header, footer {
-	background-color: rgb(217,196,36);
-
-
-}
-
-#imagemprincipal{
-	width: 80%;
-	height: 400px;
-	border: 2px solid black;
-	padding: 20px;
-	margin: 20px;
-
+ 	background-color: rgb(242, 90,138);
 
 }
+
 main {
 
-background-color: #E5C1D9;
-
+	background-color: #acf497;
+}
+h1  {
+	 text-align: center;
+	 color: #black;
+	
 }
 
 h3 {
-	text-align: center;
 	color:black;
-
 }
 
 b {
-	color: black;
-	font-size: 30px;
-}
-
-#paragrafodiferente {
-	color: darkred;
-	font-size: 50px;
-
-
+	color:rgb(242, 90, 138) ;
+	font-size: 20px;
 }
 
 i {
-font-size: 40px;
- }
+	color: #32CD32;
+	font-size: 30px;
 
- .momentos {
- 	background-color: gray;
- 	padding: in;
- 	margin: 10px;
- 	border: black solid 2px;
- }
-
- #imagemlateral {
- 	display:inline-block ;
- 	width: 30%;
- 	height: inherit;
- 	vertical-align: top;
- }
-
- .lista {
- 	display:inline-block ;
- 	font-size: 40px;
- }
- 
- ul li::marker {
- 	content: "🥙";
- }
+}
