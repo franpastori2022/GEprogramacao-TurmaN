@@ -1,0 +1,70 @@
+
+body {
+	background-color: #D90B6E;
+}
+
+header, footer {
+	background-color: rgb(217,196,36);
+
+
+}
+
+#imagemprincipal{
+	width: 80%;
+	height: 400px;
+	border: 2px solid black;
+	padding: 20px;
+	margin: 20px;
+
+
+}
+main {
+
+background-color: #E5C1D9;
+
+}
+
+h3 {
+	text-align: center;
+	color:black;
+
+}
+
+b {
+	color: black;
+	font-size: 30px;
+}
+
+#paragrafodiferente {
+	color: darkred;
+	font-size: 50px;
+
+
+}
+
+i {
+font-size: 40px;
+ }
+
+ .momentos {
+ 	background-color: gray;
+ 	padding: in;
+ 	margin: 10px;
+ 	border: black solid 2px;
+ }
+
+ #imagemlateral {
+ 	display:inline-block ;
+ 	width: 30%;
+ 	height: inherit;
+ 	vertical-align: top;
+ }
+
+ .lista {
+ 	display:inline-block ;
+ 	font-size: 40px;
+ }
+ 
+ ul li::marker {
+ 	content: "🥙";
+ }
